@@ -7,6 +7,7 @@ This project focused on Instacart, an online grocery store that operates through
 ## Data
 
 We used and analyzed the following datasets:
+
 -Orders
 -Products
 -Customers
