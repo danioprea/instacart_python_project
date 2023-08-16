@@ -11,3 +11,10 @@ We used and analyzed the following datasets:
 - Products
 - Customers
 - Departments
+
+## Tools
+
+For this project, the following Python libraries were used:
+- pandas - for data analysis
+- seaborn - for visualization
+
