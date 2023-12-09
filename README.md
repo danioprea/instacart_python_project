@@ -1,4 +1,4 @@
-# instacart_python_project
+# Instacart Python Project 🛒
 
 ## Objective
 
